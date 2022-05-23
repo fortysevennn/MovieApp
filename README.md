@@ -1,4 +1,4 @@
-# CleanArchitectureSimpleApp
+# Movie App
 
 A simple movie list app
 
